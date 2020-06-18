@@ -1,0 +1,2 @@
+ID_API: xMSL0TnMnGEuOdtAiQOG
+Key_API: g2nqaxgOXA_NKBfoPg1hipRy0o9ft02o2CHV_w6033A
